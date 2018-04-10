@@ -184,6 +184,7 @@ p:last-child { margin-bottom: 0; }
 .tm-section-header {
 	font-weight: 300;
 	margin-bottom: 30px;
+	text-align: center;
 }
 
 .tm-white-curve-left,
